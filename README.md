@@ -1,4 +1,4 @@
-# la_contextressa
+# La Contextressa
 Repository to contain source code of the art / machine learning project La Contextressa
 
 ## Overview
